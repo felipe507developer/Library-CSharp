@@ -1,0 +1,14 @@
+C:\Users\felip\source\repos\Library\bin\Release\Library.exe.config
+C:\Users\felip\source\repos\Library\bin\Release\Library.exe
+C:\Users\felip\source\repos\Library\bin\Release\Library.pdb
+C:\Users\felip\source\repos\Library\bin\Release\Newtonsoft.Json.dll
+C:\Users\felip\source\repos\Library\bin\Release\Newtonsoft.Json.xml
+C:\Users\felip\source\repos\Library\obj\Release\Library.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\Library\obj\Release\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\repos\Library\obj\Release\Library.Form1.resources
+C:\Users\felip\source\repos\Library\obj\Release\Library.Properties.Resources.resources
+C:\Users\felip\source\repos\Library\obj\Release\Library.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Library\obj\Release\Library.csproj.CopyComplete
+C:\Users\felip\source\repos\Library\obj\Release\Library.exe
+C:\Users\felip\source\repos\Library\obj\Release\Library.pdb

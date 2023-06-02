@@ -1,0 +1,14 @@
+C:\Users\felip\source\repos\Library\bin\Debug\Library.exe.config
+C:\Users\felip\source\repos\Library\bin\Debug\Library.exe
+C:\Users\felip\source\repos\Library\bin\Debug\Library.pdb
+C:\Users\felip\source\repos\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\repos\Library\obj\Debug\Library.Form1.resources
+C:\Users\felip\source\repos\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\felip\source\repos\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Library\obj\Debug\Library.exe
+C:\Users\felip\source\repos\Library\obj\Debug\Library.pdb
+C:\Users\felip\source\repos\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felip\source\repos\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felip\source\repos\Library\obj\Debug\Library.csproj.CopyComplete

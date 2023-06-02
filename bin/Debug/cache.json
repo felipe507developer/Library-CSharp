@@ -1,0 +1,30 @@
+{
+  "0201558025": {
+    "Title": "Concrete mathematics",
+    "Subtitle": "a foundation for computer science",
+    "Authors": "{\r\n  \"url\": \"https://openlibrary.org/authors/OL720958A/Ronald_L._Graham\",\r\n  \"name\": \"Ronald L. Graham\"\r\n}, {\r\n  \"url\": \"https://openlibrary.org/authors/OL229501A/Donald_Knuth\",\r\n  \"name\": \"Donald Knuth\"\r\n}, {\r\n  \"url\": \"https://openlibrary.org/authors/OL2669938A/Oren_Patashnik\",\r\n  \"name\": \"Oren Patashnik\"\r\n}",
+    "NumberOfPages": 657,
+    "PublishDate": "1994"
+  },
+  "0984782869": {
+    "Title": "Cracking the Coding Interview",
+    "Subtitle": "189 Programming Questions and Solutions",
+    "Authors": "{\r\n  \"url\": \"https://openlibrary.org/authors/OL9302794A/Gayle_Laakmann_McDowell\",\r\n  \"name\": \"Gayle Laakmann McDowell\"\r\n}",
+    "NumberOfPages": 0,
+    "PublishDate": "Nov 21, 2015"
+  },
+  "048641714X": {
+    "Title": "Relativity",
+    "Subtitle": "the special and general theory",
+    "Authors": "{\r\n  \"url\": \"https://openlibrary.org/authors/OL3175986A/Albert_Einstein\",\r\n  \"name\": \"Albert Einstein\"\r\n}",
+    "NumberOfPages": 168,
+    "PublishDate": "2001"
+  },
+  "0565095021": {
+    "Title": "On the Origin of Species",
+    "Subtitle": null,
+    "Authors": "{\r\n  \"url\": \"https://openlibrary.org/authors/OL35839A/Charles_Darwin\",\r\n  \"name\": \"Charles Darwin\"\r\n}",
+    "NumberOfPages": 520,
+    "PublishDate": "2019"
+  }
+}
